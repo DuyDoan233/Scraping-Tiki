@@ -14,8 +14,9 @@ Explain the applications' features
 1. Add product '+': Feature has been added to save data collection time for users as users can search for multiple products at once by entering the item name in 'Mặt hàng' and clicking '+' then the item will be added to the list of 'Mặt hàng đã chọn' in preparation for the bulk data collection.
 2. Minus product '-': By selecting the item you want to discard in the 'Mặt hàng đã chọn' list and pressing '-', the item will be removed from the list of products you want to collect.
 3. 'Open': users can view the item directly on Tiki by typing in 'Mặt hàng' and clicking on 'Open Tiki'
-4. 'Danh mục sản phẩm trên Tiki': 
-![image](https://user-images.githubusercontent.com/101572443/232872689-69c6a7bf-6754-486f-9217-8501c85193dd.png)
+4. 'Danh mục sản phẩm trên Tiki':
+<br>
+![screenshot_1681843310](https://user-images.githubusercontent.com/101572443/232873183-8ef13181-2644-4a76-8323-82048effbac5.png)
 
 
 ![image](https://user-images.githubusercontent.com/101572443/232861983-84664b37-18a0-405a-a1aa-7f30c2c6f978.png)
