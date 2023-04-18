@@ -16,6 +16,7 @@ Explain the applications' features
 3. 'Open': users can view the item directly on Tiki by typing in 'Mặt hàng' and clicking on 'Open Tiki'
 4. 'Danh mục sản phẩm trên Tiki':
 <br>
-![screenshot_1681843310](https://user-images.githubusercontent.com/101572443/232873316-f1232594-7a6b-4e1c-b3e8-bfe26f92e02e.png)
+
 
 ![image](https://user-images.githubusercontent.com/101572443/232861983-84664b37-18a0-405a-a1aa-7f30c2c6f978.png)
+![screenshot_1681843310](https://user-images.githubusercontent.com/101572443/232873316-f1232594-7a6b-4e1c-b3e8-bfe26f92e02e.png)
