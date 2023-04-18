@@ -27,14 +27,14 @@ Explain the applications' features
 
 |     | Tên hàng                | Classes | Train samples | Test samples |
 |-----|------------------------|:---------:|:---------------:|:--------------:|
-|     | AG’s News              |    4    |    120 000    |     7 600    |
-|     | Sogou News             |    5    |    450 000    |    60 000    |
-|     | DBPedia                |    14   |    560 000    |    70 000    |
-|     | Yelp Review Polarity   |    2    |    560 000    |    38 000    |
-|     | Yelp Review Full       |    5    |    650 000    |    50 000    |
-|     | Yahoo! Answers         |    10   |   1 400 000   |    60 000    |
-|     | Amazon Review Full     |    5    |   3 000 000   |    650 000   |
-|     | Amazon Review Polarity |    2    |   3 600 000   |    400 000   |
+|  1  | AG’s News              |    4    |    120 000    |     7 600    |
+|  2  | Sogou News             |    5    |    450 000    |    60 000    |
+|  3  | DBPedia                |    14   |    560 000    |    70 000    |
+|  4  | Yelp Review Polarity   |    2    |    560 000    |    38 000    |
+|  .  | Yelp Review Full       |    5    |    650 000    |    50 000    |
+|  .  | Yahoo! Answers         |    10   |   1 400 000   |    60 000    |
+|  .  | Amazon Review Full     |    5    |   3 000 000   |    650 000   |
+| 2023 | Amazon Review Polarity |    2    |   3 600 000   |    400 000   |
 
 <br>
 ![image](https://user-images.githubusercontent.com/101572443/232861983-84664b37-18a0-405a-a1aa-7f30c2c6f978.png)
