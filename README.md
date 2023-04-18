@@ -38,7 +38,7 @@ Explain the applications' features
 <br>
 
 ## Requirements
-<br>
+
 Need pip these library followed:
 * **tkinter**
 * **tktooltip**
