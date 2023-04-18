@@ -40,10 +40,10 @@ Explain the applications' features
 ## Requirements
 <br>
 Need pip these library followed:
-* **tkinter
-* **tktooltip
-* **webbrowser
-* **requests
-* **fake_useragent
-* **pandas
-* **re
+* **tkinter**
+* **tktooltip**
+* **webbrowser**
+* **requests**
+* **fake_useragent**
+* **pandas**
+* **re**
