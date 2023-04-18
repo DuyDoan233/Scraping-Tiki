@@ -25,17 +25,15 @@ Explain the applications' features
 
 <br>
 
-|      | Tên hàng               | Tên cửa hàng | Thương hiệu sản phẩm | Giá gốc | Discount rate | Giá thực trả | Đánh giá | Tổng số nhận xét | Đã bán | Link |
-|------|------------------------|:------------:|:---------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
-|  1   | AG’s News              |    4    |    120 000    |     7 600    |
-|  2   | Sogou News             |    5    |    450 000    |    60 000    |
-|  3   | DBPedia                |    14   |    560 000    |    70 000    |
-|  4   | Yelp Review Polarity   |    2    |    560 000    |    38 000    |
-|  .   | Yelp Review Full       |    5    |    650 000    |    50 000    |
-|  .   | Yahoo! Answers         |    10   |   1 400 000   |    60 000    |
-|  .   | Amazon Review Full     |    5    |   3 000 000   |    650 000   |
-| 2022 | Amazon Review Full     |    5    |   3 000 000   |    650 000   |
-| 2023 | Amazon Review Polarity |    2    |   3 600 000   |    400 000   |
+|      | Tên hàng            | Tên cửa hàng  |Thương hiệu sản phẩm|Giá gốc|Discount rate|Giá thực trả|Đánh giá|Tổng số nhận xét|Đã bán|             Link             |
+|------|---------------------|:-------------:|:------------------:|:-----:|:-----------:|:----------:|:------:|:--------------:|:----:|:----------------------------:|
+|  0   |[MỚI] Tã/bỉm Bobby   |Tiki Trading   |Bobby               |606500 |35           |395000      |5       |349             |5954  |https://tiki.vn.....198744326 |
+|  1   |Bỉm Quần Hipgig      |BabyMart24h    |OEM                 |135000 |0            |135000      |3.8     |15              |61    |https://tiki.vn.....150147317 |
+|  2   |Bỉm - Tã quần Merries|Jupiterfriendly|Merries             |570000 |40           |343000      |5       |42              |240   |https://tiki.vn.....133772149 |
+|  3   |Bỉm - Tã Quần Moony  |Jupiterfriendly|Moony Natural       |470000 |38           |291000      |4.6     |33              |200   |https://tiki.vn.....133772101 |
+|  ... |                     |               |                    |       |             |            |        |                |      |                              |
+| 2022 |Tã Dán Siêu Cao Cấp  |Tiki Trading   |Huggies             |460000 |35           |299000      |4.8     |179             |784   |https://tiki.vn.....95269392  |
+| 2023 |Tã Quần Caryn        |Tiki Trading   |Caryn               |386700 |13           |337000      |4.8     |321             |687488|https://tiki.vn.....75435458  |
 
 <br>
 ![image](https://user-images.githubusercontent.com/101572443/232861983-84664b37-18a0-405a-a1aa-7f30c2c6f978.png)
