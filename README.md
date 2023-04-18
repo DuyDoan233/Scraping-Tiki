@@ -12,6 +12,7 @@ With the GUI
 With a friendly and easy-to-use interface, the application will quickly master with new users.
 
 * **
-![Screenshot 2023-04-19 005403](https://user-images.githubusercontent.com/101572443/232869557-d51b85b0-f892-446b-a1da-a21eb693a9d3.png)
+![Screenshot 2023-04-19 005403 (1)](https://user-images.githubusercontent.com/101572443/232869991-4e738d7d-428d-4fda-969e-267e614ccb8b.png)
+
 
 ![image](https://user-images.githubusercontent.com/101572443/232861983-84664b37-18a0-405a-a1aa-7f30c2c6f978.png)
