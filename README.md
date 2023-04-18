@@ -36,5 +36,14 @@ Explain the applications' features
 | 2023 |Tã Quần Caryn        |Tiki Trading   |Caryn               |386700 |13           |337000      |4.8     |321             |687488|https://tiki.vn.....75435458  |
 
 <br>
-![image](https://user-images.githubusercontent.com/101572443/232861983-84664b37-18a0-405a-a1aa-7f30c2c6f978.png)
-![screenshot_1681843310](https://user-images.githubusercontent.com/101572443/232873316-f1232594-7a6b-4e1c-b3e8-bfe26f92e02e.png)
+
+## Requirements
+<br>
+Need pip these library followed:
+* **tkinter
+* **tktooltip
+* **webbrowser
+* **requests
+* **fake_useragent
+* **pandas
+* **re
