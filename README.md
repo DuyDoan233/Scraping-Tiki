@@ -7,7 +7,11 @@ To support users who are new sellers who want to start selling on the e-commerce
 <br>
 <br>
 ## Function
-![Screenshot 2023-04-19 005403](https://user-images.githubusercontent.com/101572443/232863189-627cb07f-76f0-4d92-950e-08426bd8f1b6.png)
-*
+With the GUI 
+<br>
+With a friendly and easy-to-use interface, the application will quickly master with new users.
+
+* **
+![Screenshot 2023-04-19 005403](https://user-images.githubusercontent.com/101572443/232869557-d51b85b0-f892-446b-a1da-a21eb693a9d3.png)
 
 ![image](https://user-images.githubusercontent.com/101572443/232861983-84664b37-18a0-405a-a1aa-7f30c2c6f978.png)
