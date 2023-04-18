@@ -33,5 +33,7 @@ Explain the applications' features
 | Yahoo! Answers         |    10   |   1 400 000   |    60 000    |
 | Amazon Review Full     |    5    |   3 000 000   |    650 000   |
 | Amazon Review Polarity |    2    |   3 600 000   |    400 000   |
+
+<br>
 ![image](https://user-images.githubusercontent.com/101572443/232861983-84664b37-18a0-405a-a1aa-7f30c2c6f978.png)
 ![screenshot_1681843310](https://user-images.githubusercontent.com/101572443/232873316-f1232594-7a6b-4e1c-b3e8-bfe26f92e02e.png)
