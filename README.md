@@ -11,7 +11,10 @@ With the GUI
 <br>
 With a friendly and easy-to-use interface, the application will quickly master with new users.
 ![Screenshot 2023-04-19 005403 (1)](https://user-images.githubusercontent.com/101572443/232869991-4e738d7d-428d-4fda-969e-267e614ccb8b.png)
-* **
+<br>
+Explain the applications' features
+1. Add product '+': Feature has been added to save data collection time for users as users can search for multiple products at once by entering the item name in 'Mặt hàng' and clicking '+' then the item will be added to the list of 'Mặt hàng đã chọn' in preparation for the bulk data collection.
+2. Minus product '-': By selecting the item you want to discard in the 'Selected Items' list and pressing '-', the item will be removed from the list of products you want to collect.
 
 
 
