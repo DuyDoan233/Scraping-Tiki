@@ -23,6 +23,7 @@ Explain the applications' features
 
 ## Result
 <br>
+
 | Dataset                | Classes | Train samples | Test samples |
 |------------------------|:---------:|:---------------:|:--------------:|
 | AG’s News              |    4    |    120 000    |     7 600    |
