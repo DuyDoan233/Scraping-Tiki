@@ -25,15 +25,16 @@ Explain the applications' features
 
 <br>
 
-|     | Tên hàng                | Classes | Train samples | Test samples |
-|-----|------------------------|:---------:|:---------------:|:--------------:|
-|  1  | AG’s News              |    4    |    120 000    |     7 600    |
-|  2  | Sogou News             |    5    |    450 000    |    60 000    |
-|  3  | DBPedia                |    14   |    560 000    |    70 000    |
-|  4  | Yelp Review Polarity   |    2    |    560 000    |    38 000    |
-|  .  | Yelp Review Full       |    5    |    650 000    |    50 000    |
-|  .  | Yahoo! Answers         |    10   |   1 400 000   |    60 000    |
-|  .  | Amazon Review Full     |    5    |   3 000 000   |    650 000   |
+|      | Tên hàng               | Tên cửa hàng | Thương hiệu sản phẩm | Giá gốc | Discount rate | Giá thực trả | Đánh giá | Tổng số nhận xét | Đã bán | Link |
+|------|------------------------|:------------:|:---------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+|  1   | AG’s News              |    4    |    120 000    |     7 600    |
+|  2   | Sogou News             |    5    |    450 000    |    60 000    |
+|  3   | DBPedia                |    14   |    560 000    |    70 000    |
+|  4   | Yelp Review Polarity   |    2    |    560 000    |    38 000    |
+|  .   | Yelp Review Full       |    5    |    650 000    |    50 000    |
+|  .   | Yahoo! Answers         |    10   |   1 400 000   |    60 000    |
+|  .   | Amazon Review Full     |    5    |   3 000 000   |    650 000   |
+| 2022 | Amazon Review Full     |    5    |   3 000 000   |    650 000   |
 | 2023 | Amazon Review Polarity |    2    |   3 600 000   |    400 000   |
 
 <br>
